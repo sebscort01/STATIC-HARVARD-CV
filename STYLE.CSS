@@ -1,0 +1,77 @@
+.back{
+    background-color:aliceblue;
+    width: 940px;
+    position: relative;
+    margin: auto;
+    border: 1px solid #000000;
+} 
+
+.perfil{
+
+    width: 940px;
+    position: relative;
+    margin: auto;
+    
+
+}   
+
+.Titulo h1 {
+    font-size: 35px;
+    font-weight: bold;
+    margin: 0 0 5px 50px;
+     
+}
+
+.Titulo p{
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0 0 5px 50px;
+} 
+
+.contacto{
+    position: absolute;
+    top:  5px;
+    right: 30px;
+    font-size: 20px;
+    bottom: 30px;
+}
+
+
+.contacto li{
+    margin: 0 0 8px 0;
+}
+
+h2 {
+    margin: 30px 0 30px 50px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.linea {
+    border-top: 1px solid black;
+    height: 2px;
+    padding: 0;
+    margin: 30px 50px 30px 50px;
+    width: 860px;
+  }
+
+h3{
+    font-size: 15px;
+    font-weight: bold;
+    margin: 15px 0 15px 50px;
+}
+
+
+
+.skilss{
+    font-size: 15px;
+    list-style-type: disc;
+    margin: 0 45px 30px 65px ;
+     
+}
+
+.skilss li{
+    margin: 10px 0;
+    text-align: justify;
+    font-size: 16px;
+}
